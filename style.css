@@ -24,6 +24,7 @@
   background-color: white;
   margin-top: 20px;
   height: 30px;
+  border: solid black 1px;
 }
 .pink {
   background-color: pink;
@@ -33,4 +34,23 @@
   height: 100px;
   background-color: purple;
   margin-top: 20px;
+}
+.brown {
+  background-color: brown;
+  height: 100px;
+  margin-top: 30px;
+  text-align: center;
+}
+
+.yellow {
+  background-color: yellow;
+  min-height: 500px;
+}
+.orange {
+  background-color: orange;
+  height: 30px;
+  border: solid black 1px;
+}
+.mar {
+  margin-top: 50px;
 }
