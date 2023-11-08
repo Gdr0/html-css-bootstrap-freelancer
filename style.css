@@ -11,7 +11,7 @@
 
 .azure {
   background-color: #00c79f;
-  min-height: 450px;
+  min-height: 400px;
 }
 
 .black {
@@ -28,12 +28,13 @@
 }
 .pink {
   background-color: pink;
-  min-height: 900px;
+  min-height: 500px;
 }
 .purple {
   height: 100px;
   background-color: purple;
   margin-top: 20px;
+  border: solid black 1px;
 }
 .brown {
   background-color: brown;
