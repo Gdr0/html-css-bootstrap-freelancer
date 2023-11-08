@@ -1,0 +1,36 @@
+/* DEBUG */
+.red {
+  background-color: red;
+  min-height: 100px;
+}
+
+.blue {
+  background-color: blue;
+  /* min-height: 50px; */
+}
+
+.azure {
+  background-color: #00c79f;
+  min-height: 450px;
+}
+
+.black {
+  height: 200px;
+  background-color: black;
+  margin-top: 50px;
+}
+
+.white {
+  background-color: white;
+  margin-top: 20px;
+  height: 30px;
+}
+.pink {
+  background-color: pink;
+  min-height: 900px;
+}
+.purple {
+  height: 100px;
+  background-color: purple;
+  margin-top: 20px;
+}
