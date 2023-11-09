@@ -1,6 +1,5 @@
 .card-boot {
   color: white;
-  font-weight: bold;
 }
 .blue {
   color: #323c52;
@@ -8,7 +7,20 @@
 .white {
   color: white;
 }
+.jumbo {
+  background-image: url(img/avatar.svg);
+}
 
+header .navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .show > .nav-link {
+  color: white;
+}
+header .navbar-light .navbar-nav .nav-link {
+  color: white;
+}
+header {
+  background-color: #323c52;
+}
 /* DEBUG */
 .red {
   background-color: red;
