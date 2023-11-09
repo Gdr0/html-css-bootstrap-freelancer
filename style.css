@@ -2,6 +2,12 @@
   color: white;
   font-weight: bold;
 }
+.blue {
+  color: #323c52;
+}
+.white {
+  color: white;
+}
 
 /* DEBUG */
 .red {
@@ -9,48 +15,10 @@
   min-height: 100px;
 }
 
-.blue {
-  background-color: blue;
-  /* min-height: 50px; */
-}
-
 .azure {
   background-color: #00c79f;
 }
 
-.black {
-  height: 200px;
-  background-color: black;
-  margin-top: 50px;
-}
-
-.white {
-  background-color: white;
-  margin-top: 20px;
-  height: 30px;
-  border: solid black 1px;
-}
-.pink {
-  background-color: pink;
-  min-height: 500px;
-}
-.purple {
-  height: 100px;
-  background-color: purple;
-  margin-top: 20px;
-  border: solid black 1px;
-}
-.brown {
-  background-color: brown;
-  height: 100px;
-  margin-top: 30px;
-  text-align: center;
-}
-
-.yellow {
-  background-color: yellow;
-  min-height: 500px;
-}
 .orange {
   background-color: orange;
   height: 30px;
