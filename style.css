@@ -1,3 +1,8 @@
+.card-boot {
+  color: white;
+  font-weight: bold;
+}
+
 /* DEBUG */
 .red {
   background-color: red;
@@ -11,7 +16,6 @@
 
 .azure {
   background-color: #00c79f;
-  min-height: 400px;
 }
 
 .black {
