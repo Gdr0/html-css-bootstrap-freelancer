@@ -30,12 +30,3 @@ header {
 .azure {
   background-color: #00c79f;
 }
-
-.orange {
-  background-color: orange;
-  height: 30px;
-  border: solid black 1px;
-}
-.mar {
-  margin-top: 50px;
-}
